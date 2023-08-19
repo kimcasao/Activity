@@ -1,0 +1,20 @@
+.project{
+
+}
+
+
+.project1 {
+
+  margin-bottom: 10px;
+ border-style: outset;
+ background:#477645;
+ background: rgba(76, 175, 80, 0.3);
+
+}
+
+.video1{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+

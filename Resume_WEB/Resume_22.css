@@ -1,0 +1,65 @@
+
+
+.name{
+
+}
+.container {
+  display: flex;
+  justify-content: center; /* Center items horizontally */
+  background-color: #orange;
+  overflow: hidden;
+
+}
+
+.menu {
+  display: inline-block; /* To shrink-wrap the menu */
+}
+
+.menu a {
+  
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.education{
+ border-style: outset;
+ margin-bottom: 10px;
+}
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  width:100%;
+  padding: 10px;
+}
+
+
+.experience {
+  margin-bottom: 10px;
+ border-style: outset;
+}
+
+.skills{
+   margin-bottom: 10px;
+   border-style: outset;
+}
+
+.project{
+   border-style: outset;
+   margin-bottom: 10px;
+}
+
+
+.contact{
+ 
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
